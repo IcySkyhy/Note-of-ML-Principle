@@ -12,7 +12,7 @@ The notes and summaries for *Understanding Machine Learning: From Theory to Algo
 
 GitHub Repo: https://github.com/IcySkyhy/Note-of-ML-Principle.git 
 
-欢迎大家提交 PR 或 issue 进行补充和修正！也可以看看 `主页<https://github.com/IcySkyhy>`_ 的其他项目喵~
+欢迎大家提交 PR 或 issue 进行补充和修正！也可以看看 `主页 <https://github.com/IcySkyhy/>`_ 的其他项目喵~
 
 .. toctree::
    :maxdepth: 2
