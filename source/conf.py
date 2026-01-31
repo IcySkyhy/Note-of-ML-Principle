@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Note-of-ML-Principle'
+project = 'IcySky\'s ML Notes'
 copyright = '2026, IcySkyhy'
 author = 'IcySkyhy'
 
