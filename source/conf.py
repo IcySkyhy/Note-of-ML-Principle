@@ -13,9 +13,16 @@ author = 'IcySkyhy'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+
 extensions = [
-    'sphinx_rtd_theme',  # 最好显式加上这个，虽然不是强制的
-    'myst_parser'
+    'sphinx_rtd_theme',
+    'myst_parser',
+    'sphinx.ext.mathjax', 
+]
+
+myst_enable_extensions = [
+    "dollarmath",  # 开启 $...$ 和 $$...$$ 支持
+    "amsmath",     # 开启高级数学环境支持
 ]
 
 templates_path = ['_templates']
