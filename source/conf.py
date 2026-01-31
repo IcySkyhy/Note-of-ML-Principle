@@ -17,7 +17,8 @@ author = 'IcySkyhy'
 extensions = [
     'sphinx_rtd_theme',
     'myst_parser',
-    'sphinx.ext.mathjax', 
+    'sphinx.ext.mathjax',
+    'sphinx_proof', 
 ]
 
 myst_enable_extensions = [
