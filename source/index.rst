@@ -3,15 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Note-of-ML-Principle documentation
+ML Principle Learning Notes
 ==================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+The notes and summaries for Machine Learning Principles. Based on *Understanding Machine Learning: From Theory to Algorithms* by Shai Shalev-Shwartz and Shai Ben-David. 
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   TheoreticalBasis/index
+   .. FundamentalAlgorithms/index
+   .. OtherLearningModels/index
+   .. AdvancedTheories/index
+
 
